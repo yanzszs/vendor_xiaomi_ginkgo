@@ -295,13 +295,6 @@ dex_import {
 }
 
 dex_import {
-	name: "com.fingerprints.extension",
-	owner: "xiaomi",
-	jars: ["proprietary/framework/com.fingerprints.extension.jar"],
-	soc_specific: true,
-}
-
-dex_import {
 	name: "com.qti.snapdragon.sdk.display",
 	owner: "xiaomi",
 	jars: ["proprietary/product/framework/com.qti.snapdragon.sdk.display.jar"],

@@ -2356,7 +2356,6 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.misys-V1.0-java \
     vendor.xiaomi.hardware.misys-V2.0-java \
     vendor.xiaomi.hardware.misys.V3_0 \
-    com.fingerprints.extension \
     com.qti.snapdragon.sdk.display \
     com.qti.dpmframework \
     com.qualcomm.qti.imscmservice-V2.0-java \
